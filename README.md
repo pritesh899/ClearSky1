@@ -6,5 +6,10 @@ seed for the J2EE training project: clearsky
 **`container`** [*module-container*]: contains SpringBoot version of the same API with Docker configuration
 
 ### For the final module submission [*module-complete*], update following urls for your app:    
-**`EC2 Jenkins URL`**: `http://ec2-<somehost>.amazonaws.com/jenkins`  
-**`Swagger URL`**: `http://ec2-<somehost>.amazonaws.com/swagger`  
+
+Spring-MVC application:
+**`EC2 Jenkins URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com` or `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/`  
+**`Swagger URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/swagger-ui.html` or  `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/swagger-ui.html`
+
+Spring-boot application:
+Will update soon
