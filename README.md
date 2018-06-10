@@ -12,5 +12,5 @@ Spring-MVC application:
 **`Swagger URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/swagger-ui.html` or  `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/swagger-ui.html`
 
 Spring-boot application:
-**`EC2 Jenkins URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/api/weather/cities`
+**`EC2 Jenkins URL`**: `http://ec2-34-228-63-143.compute-1.amazonaws.com/api/weather/cities`
 **`Swagger URL`**: `ec2-34-228-63-143.compute-1.amazonaws.com/api/swagger-ui.html` 
