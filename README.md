@@ -8,8 +8,9 @@ seed for the J2EE training project: clearsky
 ### For the final module submission [*module-complete*], update following urls for your app:    
 
 Spring-MVC application:
-**`EC2 Jenkins URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com` or `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/`  
+**`EC2 Jenkins URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/weather/cities` or `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/weather/cities`  
 **`Swagger URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/swagger-ui.html` or  `http://ec2-54-88-124-205.compute-1.amazonaws.com:8080/SpringRestApi/swagger-ui.html`
 
 Spring-boot application:
-Will update soon
+**`EC2 Jenkins URL`**: `http://ec2-54-88-124-205.compute-1.amazonaws.com/api/weather/cities`
+**`Swagger URL`**: `ec2-34-228-63-143.compute-1.amazonaws.com/api/swagger-ui.html` 
